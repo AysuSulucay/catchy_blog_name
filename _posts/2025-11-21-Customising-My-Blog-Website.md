@@ -6,7 +6,7 @@ I do have a little sooooo little 🤏 knowledge about HTML and CSS. I didn't eve
 My coding journey started with Java and continued with MATLAB. After that, I started to learn Python by myself HOWEVER this is a topic for another post ( ﾉ ﾟｰﾟ)ﾉ
 
 <img src="https://github.com/user-attachments/assets/2c9ac241-5049-4c31-b773-bda700839532"
-  style="display: block; margin: 0 auto" />
+  style="display: block; width: 30%; margin: 0 auto" />
 
 I am using [minima](https://github.com/jekyll/minima) as a theme but I want to make some changes especially on the colour palette or scheme or whatever it is called. 
 I wanna use Dracula colour scheme I just love it 🥰 yet I found that it is more challenging than I expected because I lack experience in HTML and CSS. 
